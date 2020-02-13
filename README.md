@@ -1,5 +1,7 @@
 # Axelor Open Platform
 
+# 类似于Odoo的Java ERP（也是快递开发框架）
+
 [uri_axelor]: https://www.axelor.com
 [uri_docs]: https://docs.axelor.com/adk/latest/
 [uri_docs_install]: https://docs.axelor.com/adk/latest/getting-started/index.html
